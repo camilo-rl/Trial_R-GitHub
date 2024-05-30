@@ -3,6 +3,7 @@ title: "Example 1"
 author: "Me"
 format: html
 editor: visual
+output-dir: docs
 ---
 
 ## Quarto
